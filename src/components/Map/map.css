@@ -1,0 +1,12 @@
+
+.App {
+  width: 400px;
+  height: 208px;
+  left: 30;
+  padding:20px
+  }
+  
+.map-container {
+    height: 100%;
+    width: 100%;
+  }

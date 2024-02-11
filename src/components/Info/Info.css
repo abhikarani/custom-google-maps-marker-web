@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+
+
+.intro1{
+    font-family: 'Mea Culpa'; /* Use a preferred font stack or a specific font */
+    font-size: 80px; /* Set the base font size */
+    font-weight: normal; /* or bold for a bold font */
+    color: #ffffff; /* Set the text color */
+    line-height: 1.5; /* Set the line height for better readability */
+    width: 100%;
+}
